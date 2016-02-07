@@ -1,6 +1,10 @@
 # Directory crawler
 
+----
+
 **This is probably better done using gulp**.  As such this library was never used.
+
+----
 
 Crawls a directory and emitting an event each time a matching file is found.
 
