@@ -8,6 +8,7 @@
   },
   "author": "Daniel Lewis",
   "license": "ISC",
+  "repository": "https://github.com/mrdaniellewis/directory-crawler.git",
   "dependencies": {
     "debug": "^2.2.0",
     "minimatch": "^3.0.0",
