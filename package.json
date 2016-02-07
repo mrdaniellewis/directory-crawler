@@ -1,0 +1,25 @@
+{
+  "name": "directory-crawler",
+  "version": "1.0.0",
+  "description": "Recursively crawls a directory and/or zip files emitting file streams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "author": "Daniel Lewis",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "minimatch": "^3.0.0",
+    "promise-util": "^2.0.1",
+    "unzip": "^0.1.11"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "devDependencies": {
+    "expect": "^1.14.0",
+    "mkdirp": "^0.5.1",
+    "mocha": "^2.4.5"
+  }
+}
